@@ -1,5 +1,5 @@
 # -CruiseBookingWebApp
-Cruise Booking Web App, based on python and flask
+A Cruise Booking web application allowing future-cruisers to find their dream cruise based on multiple filter capabilities. Built using python and flask.
 
 Team: Dennis Joseph Mayuga Alex Magda Heping Song
 
